@@ -1,2 +1,0 @@
-# FrontEndEDLP
-Proyectos Potrero
